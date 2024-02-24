@@ -1,0 +1,17 @@
+/* Write your code here. */
+
+img {
+  opacity: 0.4;
+  height: 80px;
+  width: 80px;
+  border-radius: 10px;
+  margin-right: 10px;
+}
+
+.selected {
+  opacity: 1;
+}
+button {
+  background-color: transparent;
+  border: none;
+}
